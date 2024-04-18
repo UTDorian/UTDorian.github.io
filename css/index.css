@@ -11,11 +11,11 @@
     margin-left: 47%;
 }
 #hd>img {
-    padding: 0 500px;
+    padding: 0 var(--largueur);
     background-color: black;
     margin-left: -140px;
     margin-top: -20px;
-    width: 100px;
+    width: 200px;
     height: auto;
 }
 a {
