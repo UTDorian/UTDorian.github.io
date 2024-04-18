@@ -7,10 +7,8 @@
     color: violet;
     margin-left: 48%;
 }
-#hd>a>img {
-    position: absolute;
-    margin-left: 10%;
-    width: 10%;
+#hd>img {
+    width: var(--largueur-ecran);
 }
 a {
     color: blue;
@@ -19,6 +17,10 @@ body {
     background-color: coral;
 }
 /* barre immobile sur le coté */
+.logo {
+    margin-left: 0px;
+    width: 100px;
+}
 .sidenav {
     height: 100%;
     width: 120px;
