@@ -11,7 +11,9 @@
     margin-left: 47%;
 }
 #hd>img {
-    width: var(--largeur-ecran)-120px;
+    padding-left: 500px black;
+    padding-right: 500px black;
+    width: auto;
     height: auto;
 }
 a {
