@@ -3,12 +3,16 @@
     margin: auto;
     margin-left: 120px;
 }
+#hd {
+    margin-left: 120px;
+}
 #hd>h1 {
     color: violet;
-    margin-left: 48%;
+    margin-left: 47%;
 }
 #hd>img {
-    width: var(--largueur-ecran);
+    width: var(--largeur-ecran)-120px;
+    height: auto;
 }
 a {
     color: blue;
@@ -18,7 +22,8 @@ body {
 }
 /* barre immobile sur le coté */
 .logo {
-    margin-left: 0px;
+    margin-top: -15px;
+    margin-left: -5px;
     width: 100px;
 }
 .sidenav {
