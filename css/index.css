@@ -1,0 +1,19 @@
+#body_ {
+    text-align: center;
+    margin: auto;
+}
+#hd>h1 {
+    color: violet;
+    margin-left: 45%;
+}
+#hd>a>img {
+    position: absolute;
+    margin-left: 10%;
+    width: 10%;
+}
+a {
+    color: blue;
+}
+body {
+    background-color: coral;
+}
